@@ -1114,6 +1114,18 @@ audio {
 #b7,#b77{
 	background-image: url('b7.png');
 }
+#b8,#b88{
+	background-image: url('b3.png');
+}
+#b9,#b99{
+	background-image: url('b1.png');
+}
+#b10,#b1010{
+	background-image: url('b4.png');
+}
+#b011,#b1111{
+	background-image: url('b2.png');
+}
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
 	-webkit-transform: rotate(30deg);
@@ -1260,7 +1272,7 @@ audio {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
+#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story,#photo_tour {
 	display: none;
 }
 
