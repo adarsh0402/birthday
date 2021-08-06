@@ -210,7 +210,7 @@ $('document').ready(function(){
 
 		$('#photo_tour').click(function(){
 			$(this).fadeOut('slow');
-			$(location).attr('href', 'https://idealtechie.s3.ap-south-1.amazonaws.com/photos/vaishali.html')
+			$(location).attr('href', 'https://techyadarsh.s3.ap-south-1.amazonaws.com/friendship.html')
 			});
 		
 	});
